@@ -1,1 +1,3 @@
 # pandas-challenge
+
+- Under # Create a DataFrame called `per_school_summary` with columns for the calculations above. on line 70, adjusted the type error arrising whereby School Type printed both School ID and type. Used ChatGPT to build code that removed the School ID from aggregating into the same cell under School Type. Output changed from {"School Type": ([0], "District")} to {"School Type": ("District")}. Original code commented out
